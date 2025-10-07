@@ -11,6 +11,9 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daanfb&layout=compact&theme=swift&hide=jupyter%20notebook" alt="Most used languages" />
+</p>
 
 #### Android Libraries & Tools
 
@@ -42,25 +45,25 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
   <img src="https://img.shields.io/badge/Hito_(Fitness_App)-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Hito fitness app" />  
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daanfb&layout=compact&theme=swift&hide=jupyter%20notebook" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Daanfb" alt="Daanfb's GitHub Contribution Graph" />
-</p>
-
 ## 📱 Contact
 
-Feel free to reach out to me on any of these platforms:
+Feel free to reach out to me on any of these platforms or check out my resume:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/daniel-frias-balbuena/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn Profile">
+  <a href="https://drive.google.com/file/d/1twGAZRa73RUKu492cFV4gAK1lSLQpsDd/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-Español-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV en Español"/>
   </a>
-  <a href="mailto:danielfb2312@gmail.com"> <img src="https://img.shields.io/badge/Email-danielfb2312%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" /></a>
+  <a href="https://drive.google.com/file/d/1X9Jq_eHSR9jGLCi8Wo5Nl7JNtUA2Boyp/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-English-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV in English"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-frias-balbuena/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+  <a href="mailto:danielfb2312@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
+  </a>
 </p>
 
 **Thanks** for visiting my profile!
