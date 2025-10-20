@@ -37,7 +37,9 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 #### Currently Working On
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Hito_(Fitness_App)-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Hito fitness app" />  
+  <img src="https://img.shields.io/badge/Hito_(Fitness_App)-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Hito fitness app" />
+    <img src="https://img.shields.io/badge/QR_Scanner/Generator-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Hito fitness app" />  
+
 </p>
 
 ## 📱 Contact
