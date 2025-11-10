@@ -25,6 +25,7 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 | Dependency Injection    | Hilt, Koin                                                           |
 | Networking              | Retrofit                                                             |
 | Paging / Pagination     | Paging3                                                              |
+| Camera                  | Camera X                                                             |
 
 
 ## 🚀 Featured Projects
@@ -32,14 +33,14 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 <p align="left">
   <a href="https://github.com/Daanfb/NewsApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daanfb&repo=NewsApp&theme=swift&show_owner=false" alt="NewsApp" align="top"/></a>
   <a href="https://github.com/Daanfb/PathTrackerApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daanfb&repo=PathTrackerApp&theme=swift&show_owner=false" alt="PathTrackerApp" align="top"/></a>
+  
+  <a href="https://github.com/Daanfb/QrScannerMaker-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daanfb&repo=QrScannerMaker-showcase&theme=swift&show_owner=false" alt="QR Scanner Maker Showcase" align="top"/></a>
 </p>
 
 #### Currently Working On
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Hito_(Fitness_App)-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Hito fitness app" />
-    <img src="https://img.shields.io/badge/QR_Scanner/Generator-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Hito fitness app" />  
-
 </p>
 
 ## 📱 Contact
