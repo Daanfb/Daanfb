@@ -21,7 +21,7 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 |-------------------------|----------------------------------------------------------------------|
 | UI & Multiplatform      | Jetpack Compose, Compose Multiplatform                               |
 | Local Storage           | Room, SQLDelight                                                     |
-| Backend / Cloud         | Firebase Auth, Firebase Storage, Firebase Firestore, Cloud Functions |
+| Firebase                | Authentication, Storage, Firestore, Cloud Functions, Analytics, Crashlytics |
 | Dependency Injection    | Hilt, Koin                                                           |
 | Networking              | Retrofit                                                             |
 | Paging / Pagination     | Paging3                                                              |
