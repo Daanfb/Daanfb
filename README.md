@@ -12,7 +12,7 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daanfb&layout=compact&theme=swift&hide=jupyter%20notebook" alt="Most used languages" />
+  <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/top-langs/?username=Daanfb&layout=compact&theme=swift&hide=jupyter%20notebook" alt="Most used languages" />
 </p>
 
 #### Android Libraries & Tools
@@ -26,15 +26,16 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 | Networking              | Retrofit                                                             |
 | Paging / Pagination     | Paging3                                                              |
 | Camera                  | Camera X                                                             |
+| Monetization            | Google AdMob                                                         |
 
 
 ## 🚀 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/Daanfb/NewsApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daanfb&repo=NewsApp&theme=swift&show_owner=false" alt="NewsApp" align="top"/></a>
-  <a href="https://github.com/Daanfb/PathTrackerApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daanfb&repo=PathTrackerApp&theme=swift&show_owner=false" alt="PathTrackerApp" align="top"/></a>
+  <a href="https://github.com/Daanfb/NewsApp"><img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=Daanfb&repo=NewsApp&theme=swift&show_owner=false" alt="NewsApp" align="top"/></a>
+  <a href="https://github.com/Daanfb/PathTrackerApp"><img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=Daanfb&repo=PathTrackerApp&theme=swift&show_owner=false" alt="PathTrackerApp" align="top"/></a>
   
-  <a href="https://github.com/Daanfb/QrScannerMaker-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daanfb&repo=QrScannerMaker-showcase&theme=swift&show_owner=false" alt="QR Scanner Maker Showcase" align="top"/></a>
+  <a href="https://github.com/Daanfb/QrScannerMaker-showcase"><img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=Daanfb&repo=QrScannerMaker-showcase&theme=swift&show_owner=false" alt="QR Scanner Maker Showcase" align="top"/></a>
 </p>
 
 #### Currently Working On
