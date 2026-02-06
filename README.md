@@ -43,9 +43,7 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 <p align="left"> 
   <img src="https://img.shields.io/badge/Hito_(Fitness_App)-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="Hito fitness app" />
 
-  <a href="https://github.com/Daanfb/QrScannerMaker-showcase">
-    <img src="https://img.shields.io/badge/QR%20Code%3A%20Scanner%20%26%20Creator-New%20Features-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="QR Code: Scanner & Creator" />
-  </a>
+  <img src="https://img.shields.io/badge/Zen%20Sounds_(Focus_App)-Work%20in%20Progress-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="" />
 </p>
 
 ## 📱 Contact
