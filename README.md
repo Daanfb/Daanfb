@@ -26,6 +26,8 @@ I love creating apps with solid architecture, modern UI, and a strong focus on u
 | Networking              | Retrofit                                                             |
 | Paging / Pagination     | Paging3                                                              |
 | Camera                  | Camera X                                                             |
+| Machine Learning        | ML Kit                                                               |
+| Audio                   | ExoPlayer                                                            |
 | Monetization            | Google AdMob                                                         |
 
 
